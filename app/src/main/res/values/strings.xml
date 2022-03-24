@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week4HW2</string>
+    <string name="Blank">_____</string>
+    <string name="enter_a_number_between_1_and_100">1 ... 100</string>
+</resources>
